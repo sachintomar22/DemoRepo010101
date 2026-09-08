@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/8/2026 12:02:44 PM +00:00",
-      "DateModify": "9/8/2026 12:02:44 PM +00:00",
+      "DateCreation": "9/8/2026 12:03:29 PM +00:00",
+      "DateModify": "9/8/2026 12:03:29 PM +00:00",
       "Title": "Team2Flow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -36,8 +36,8 @@
         "BuildingBlocks": [
           {
             "Title": "Start",
-            "XPosition": "5620",
-            "YPosition": "5090",
+            "XPosition": "5610",
+            "YPosition": "5130",
             "IsExpanded": "True",
             "Width": "150",
             "TemplateId": "",
@@ -55,7 +55,7 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "1efae76d-e5ba-49d7-a25e-b4bf816f00c6",
+                "ValueId": "3687cfef-79fd-4abb-8eb0-b4bfb60000c6",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -72,7 +72,7 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "16cc8bab-20a0-496d-a64f-b4bf816f00c6",
+                "ValueId": "9b164efa-358e-4d4a-a1fa-b4bfb60000c6",
                 "LType": "LText",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "True",
@@ -82,7 +82,7 @@
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "16cc8bab-20a0-496d-a64f-b4bf816f00c6"
+                  "Id": "9b164efa-358e-4d4a-a1fa-b4bfb60000c6"
                 }
               }
             ]
