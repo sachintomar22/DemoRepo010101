@@ -18,8 +18,8 @@
       "WorkflowStatusId": "1368161e-584c-4c64-999d-85dd0eed4370",
       "AgentConfigurationId": "",
       "Description": "",
-      "DateCreation": "9/8/2026 5:43:19 AM +00:00",
-      "DateModify": "9/8/2026 5:43:19 AM +00:00",
+      "DateCreation": "9/8/2026 5:59:39 AM +00:00",
+      "DateModify": "9/8/2026 5:59:39 AM +00:00",
       "Title": "Team2Flow",
       "Type": "Flow",
       "IsDeleted": "False",
@@ -27,19 +27,19 @@
       "Flowchart": {
         "Type": "Flow",
         "ZoomFactor": "100",
-        "XPosition": "0",
-        "YPosition": "0",
-        "Width": "0",
-        "Hight": "0",
+        "XPosition": "-4950",
+        "YPosition": "-4950",
+        "Width": "10000",
+        "Hight": "10000",
         "IsDeleted": "False",
         "Id": "a54c8ed6-4333-455a-9a2d-930081293968",
         "BuildingBlocks": [
           {
             "Title": "Start",
-            "XPosition": "5000",
-            "YPosition": "5000",
-            "IsExpanded": "False",
-            "Width": "0",
+            "XPosition": "5230",
+            "YPosition": "5090",
+            "IsExpanded": "True",
+            "Width": "150",
             "TemplateId": "",
             "FlowchartId": "a54c8ed6-4333-455a-9a2d-930081293968",
             "Type": "Start",
@@ -55,7 +55,7 @@
                 "Key": "Header",
                 "Title": "Start",
                 "SortOrder": "0",
-                "ValueId": "a19c59ea-601c-4684-a039-b4bf56da005c",
+                "ValueId": "fc31aefd-8cbb-438e-b2cd-b4bfc4730062",
                 "LType": "LSignal",
                 "IsExpanded": "False",
                 "IsBlockPropertyChecked": "",
@@ -72,17 +72,17 @@
                 "Key": "StartAction",
                 "Title": "",
                 "SortOrder": "1",
-                "ValueId": "707d772e-0a43-45a5-9097-b4bf56db005c",
+                "ValueId": "526c12eb-d37f-47b8-b03e-b4bfc4730062",
                 "LType": "LText",
                 "IsExpanded": "False",
-                "IsBlockPropertyChecked": "",
+                "IsBlockPropertyChecked": "True",
                 "CustomSortOrder": "0",
                 "Id": "bdc698ad-2d47-4197-83af-150aae123bc8",
                 "ChildProperties": [],
                 "Connections": [],
                 "Value": {
                   "Value": "NoAction",
-                  "Id": "707d772e-0a43-45a5-9097-b4bf56db005c"
+                  "Id": "526c12eb-d37f-47b8-b03e-b4bfc4730062"
                 }
               }
             ]
